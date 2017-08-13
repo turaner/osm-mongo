@@ -8,6 +8,6 @@ Contains entity and repository definitions.
 ## Osm Mongo Importer
 A tool to import .pbf files into MongoDB
 
-## Osm Import Api
+## Osm Mongo Api
 A rest service to read osm entities from MongoDB
 
